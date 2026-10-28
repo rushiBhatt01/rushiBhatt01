@@ -35,7 +35,7 @@ I'm an Information Technology student who enjoys building applications where **A
 
 ## `02` / Selected Projects
 
-> Each project panel includes a repository link and a live-demo button. Replace the `LIVE_DEMO_URL_*` links below with the actual deployed URLs before publishing. I couldn't verify public deployment URLs for these projects, so I haven't invented any.
+
 
 <table>
 <tr>
