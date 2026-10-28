@@ -53,7 +53,7 @@ Turns a topic into an AI-assisted lesson using generated scripts, speech, visual
 
 <p>
   <a href="https://github.com/rushiBhatt01"><img src="https://img.shields.io/badge/⌘%20Source%20Code-View%20repository-1f2937?style=for-the-badge" alt="Source code"/></a>
-  <a href="ai-powered-tutor.vercel.app"><img src="https://img.shields.io/badge/↗%20Live%20Demo-Open%20app-0891b2?style=for-the-badge" alt="Live demo"/></a>
+  <a href="https://ai-powered-tutor.vercel.app"><img src="https://img.shields.io/badge/↗%20Live%20Demo-Open%20app-0891b2?style=for-the-badge" alt="Live demo"/></a>
 </p>
 
 </td>
@@ -71,7 +71,7 @@ Creates personalized learning roadmaps and provides a conversational experience 
 
 <p>
   <a href="https://github.com/rushiBhatt01"><img src="https://img.shields.io/badge/⌘%20Source%20Code-View%20repository-1f2937?style=for-the-badge" alt="Source code"/></a>
-  <a href="ai-learning-path-generator-omega.vercel.app"><img src="https://img.shields.io/badge/↗%20Live%20Demo-Open%20app-0891b2?style=for-the-badge" alt="Live demo"/></a>
+  <a href="https://ai-learning-path-generator-omega.vercel.app"><img src="https://img.shields.io/badge/↗%20Live%20Demo-Open%20app-0891b2?style=for-the-badge" alt="Live demo"/></a>
 </p>
 
 </td>
